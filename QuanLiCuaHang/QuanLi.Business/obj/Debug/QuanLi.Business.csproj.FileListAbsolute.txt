@@ -1,0 +1,17 @@
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLi.Business/obj/Debug/QuanLi.Business.csproj.CoreCompileInputs.cache
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLi.Business/bin/Debug/QuanLi.Business.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLi.Business/bin/Debug/QuanLi.Business.pdb
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLi.Business/bin/Debug/QuanLi.Data.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLi.Business/bin/Debug/QuanLi.Data.pdb
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLi.Business/obj/Debug/QuanLi.Business.csprojResolveAssemblyReference.cache
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLi.Business/obj/Debug/QuanLi.Business.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLi.Business/obj/Debug/QuanLi.Business.pdb
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLi.Business/bin/Debug/QuanLi.Business.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLi.Business/bin/Debug/QuanLi.Business.pdb
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLi.Business/bin/Debug/QuanLi.Data.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLi.Business/bin/Debug/QuanLi.Data.pdb
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLi.Business/obj/Debug/QuanLi.Business.csproj.AssemblyReference.cache
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLi.Business/obj/Debug/QuanLi.Business.csproj.CoreCompileInputs.cache
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLi.Business/obj/Debug/QuanLi.Business.csproj.CopyComplete
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLi.Business/obj/Debug/QuanLi.Business.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLi.Business/obj/Debug/QuanLi.Business.pdb

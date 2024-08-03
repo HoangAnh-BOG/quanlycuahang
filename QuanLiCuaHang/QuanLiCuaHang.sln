@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuanLiCuaHang", "QuanLiCuaHang\QuanLiCuaHang.csproj", "{1D94E554-E7DC-49AA-9D25-E68C9F06A2BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuanLi.Data", "QuanLi.Data\QuanLi.Data.csproj", "{0C76987A-5466-409D-9015-C0459AB4F594}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuanLi.Business", "QuanLi.Business\QuanLi.Business.csproj", "{D5D23816-C493-4EAE-BED6-89C08F063CF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D94E554-E7DC-49AA-9D25-E68C9F06A2BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D94E554-E7DC-49AA-9D25-E68C9F06A2BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D94E554-E7DC-49AA-9D25-E68C9F06A2BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D94E554-E7DC-49AA-9D25-E68C9F06A2BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C76987A-5466-409D-9015-C0459AB4F594}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C76987A-5466-409D-9015-C0459AB4F594}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C76987A-5466-409D-9015-C0459AB4F594}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C76987A-5466-409D-9015-C0459AB4F594}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5D23816-C493-4EAE-BED6-89C08F063CF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5D23816-C493-4EAE-BED6-89C08F063CF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5D23816-C493-4EAE-BED6-89C08F063CF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5D23816-C493-4EAE-BED6-89C08F063CF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7916F364-5557-4CDC-A0B3-E6BB6286B2EC}
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = PrefixedHierarchical
+	EndGlobalSection
+EndGlobal

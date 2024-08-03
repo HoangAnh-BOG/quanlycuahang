@@ -1,0 +1,60 @@
+﻿<Properties BuildWithMSBuildOnMono="True" StartupConfiguration="{1D94E554-E7DC-49AA-9D25-E68C9F06A2BB}|Default">
+  <MonoDevelop.Ide.ItemProperties.QuanLiCuaHang PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="defaut" Name="defaut">
+      <Items>
+        <StartupItem ItemId="{1D94E554-E7DC-49AA-9D25-E68C9F06A2BB}" ItemName="QuanLiCuaHang" ConfigurationId="Default" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+    <MultiItemSolutionRunConfiguration Id="defaut" Name="defaut">
+      <Items>
+        <StartupItem ItemId="{1D94E554-E7DC-49AA-9D25-E68C9F06A2BB}" ItemName="QuanLiCuaHang" ConfigurationId="Default" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="QuanLi.Business/ChietKhauService.cs">
+    <Files>
+      <File FileName="QuanLi.Business/Class1.cs" Line="1" Column="1" />
+      <File FileName="QuanLi.Business/CTHDBanHangService.cs" Line="24" Column="1" />
+      <File FileName="QuanLiCuaHang/BanHang.cs" Line="1" Column="1" />
+      <File FileName="QuanLiCuaHang/Form1.cs" Line="1" Column="1" />
+      <File FileName="QuanLiCuaHang/Form2.cs" Line="1" Column="1" />
+      <File FileName="QuanLiCuaHang/Form3.cs" Line="1" Column="1" />
+      <File FileName="QuanLiCuaHang/BanHang.resx" Line="1" Column="1" />
+      <File FileName="QuanLiCuaHang/Program.cs" Line="1" Column="1" />
+      <File FileName="QuanLiCuaHang/QuanliCuaHangDataSet.xsd" Line="1" Column="1" />
+      <File FileName="QuanLiCuaHang/TTHang.cs" Line="1" Column="1" />
+      <File FileName="QuanLi.Data/Controller/TTinMatHangController.cs" Line="1" Column="1" />
+      <File FileName="QuanLi.Data/Controller/ChietKhauController.cs" Line="1" Column="1" />
+      <File FileName="QuanLi.Data/Controller/CTHDBanHangController.cs" Line="1" Column="1" />
+      <File FileName="QuanLi.Data/Controller/CTHDNhapController.cs" Line="1" Column="1" />
+      <File FileName="QuanLi.Business/ChietKhauService.cs" Line="27" Column="12" />
+      <File FileName="QuanLiCuaHang/App.config" Line="22" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="QuanLiCuaHang" expanded="True">
+            <Node name="QuanLi.Business" expanded="True">
+              <Node name="ChietKhauService.cs" selected="True" />
+            </Node>
+            <Node name="QuanLi.Data" expanded="True">
+              <Node name="Info" expanded="True" />
+            </Node>
+            <Node name="QuanLiCuaHang" expanded="True">
+              <Node name="Packages" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True" />
+              <Node name="BanHang.cs" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

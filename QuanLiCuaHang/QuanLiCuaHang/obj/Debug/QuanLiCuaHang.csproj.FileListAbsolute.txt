@@ -1,0 +1,208 @@
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/QuanLiCuaHang.exe.config
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/QuanLiCuaHang.exe
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/QuanLiCuaHang.pdb
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/obj/Debug/QuanLiCuaHang.csprojResolveAssemblyReference.cache
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/obj/Debug/QuanLiCuaHang.ChietKhau.resources
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/obj/Debug/QuanLiCuaHang.Form1.resources
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/obj/Debug/QuanLiCuaHang.Properties.Resources.resources
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/obj/Debug/QuanLiCuaHang.TTHang.resources
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/obj/Debug/QuanLiCuaHang.TTMatHang.resources
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/obj/Debug/QuanLiCuaHang.csproj.GenerateResource.Cache
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/obj/Debug/QuanLiCuaHang.csproj.CoreCompileInputs.cache
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/obj/Debug/QuanLiCuaHang.exe
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/obj/Debug/QuanLiCuaHang.pdb
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/QuanLi.Business.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/QuanLi.Data.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/QuanLi.Business.pdb
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/QuanLi.Data.pdb
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/obj/Debug/QuanLiCuaHang.BanHang.resources
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/obj/Debug/QuanLiCuaHang.NhapHang.resources
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/obj/Debug/QuanLiCuaHang.HoaDonNhap.resources
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/SqlServerTypes/x64/msvcr120.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/SqlServerTypes/x64/SqlServerSpatial140.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/SqlServerTypes/x86/msvcr120.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/SqlServerTypes/x86/SqlServerSpatial140.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/Microsoft.ReportViewer.Common.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/Microsoft.ReportViewer.DataVisualization.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/Microsoft.ReportViewer.Design.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/Microsoft.ReportViewer.WebDesign.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/Microsoft.ReportViewer.WebForms.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/Microsoft.ReportViewer.WinForms.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/Microsoft.SqlServer.Types.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/EnvDTE.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/Microsoft.VisualStudio.Shell.Interop.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/stdole.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/Microsoft.VisualStudio.OLE.Interop.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/Microsoft.VisualStudio.TextManager.Interop.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/Microsoft.MSXML.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/de/Microsoft.ReportViewer.Common.resources.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/es/Microsoft.ReportViewer.Common.resources.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/fr/Microsoft.ReportViewer.Common.resources.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/it/Microsoft.ReportViewer.Common.resources.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/ja/Microsoft.ReportViewer.Common.resources.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/ko/Microsoft.ReportViewer.Common.resources.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/pt/Microsoft.ReportViewer.Common.resources.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/ru/Microsoft.ReportViewer.Common.resources.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/zh-CHS/Microsoft.ReportViewer.Common.resources.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/zh-CHT/Microsoft.ReportViewer.Common.resources.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/de/Microsoft.ReportViewer.DataVisualization.resources.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/es/Microsoft.ReportViewer.DataVisualization.resources.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/fr/Microsoft.ReportViewer.DataVisualization.resources.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/it/Microsoft.ReportViewer.DataVisualization.resources.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/ja/Microsoft.ReportViewer.DataVisualization.resources.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/ko/Microsoft.ReportViewer.DataVisualization.resources.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/pt/Microsoft.ReportViewer.DataVisualization.resources.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/ru/Microsoft.ReportViewer.DataVisualization.resources.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/zh-CHS/Microsoft.ReportViewer.DataVisualization.resources.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/zh-CHT/Microsoft.ReportViewer.DataVisualization.resources.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/de/Microsoft.ReportViewer.Design.resources.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/es/Microsoft.ReportViewer.Design.resources.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/fr/Microsoft.ReportViewer.Design.resources.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/it/Microsoft.ReportViewer.Design.resources.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/ja/Microsoft.ReportViewer.Design.resources.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/ko/Microsoft.ReportViewer.Design.resources.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/pt/Microsoft.ReportViewer.Design.resources.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/ru/Microsoft.ReportViewer.Design.resources.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/zh-CHS/Microsoft.ReportViewer.Design.resources.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/zh-CHT/Microsoft.ReportViewer.Design.resources.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/de/Microsoft.ReportViewer.WebDesign.resources.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/es/Microsoft.ReportViewer.WebDesign.resources.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/fr/Microsoft.ReportViewer.WebDesign.resources.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/it/Microsoft.ReportViewer.WebDesign.resources.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/ja/Microsoft.ReportViewer.WebDesign.resources.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/ko/Microsoft.ReportViewer.WebDesign.resources.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/pt/Microsoft.ReportViewer.WebDesign.resources.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/ru/Microsoft.ReportViewer.WebDesign.resources.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/zh-CHS/Microsoft.ReportViewer.WebDesign.resources.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/zh-CHT/Microsoft.ReportViewer.WebDesign.resources.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/de/Microsoft.ReportViewer.WebForms.resources.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/es/Microsoft.ReportViewer.WebForms.resources.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/fr/Microsoft.ReportViewer.WebForms.resources.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/it/Microsoft.ReportViewer.WebForms.resources.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/ja/Microsoft.ReportViewer.WebForms.resources.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/ko/Microsoft.ReportViewer.WebForms.resources.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/pt/Microsoft.ReportViewer.WebForms.resources.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/ru/Microsoft.ReportViewer.WebForms.resources.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/zh-CHS/Microsoft.ReportViewer.WebForms.resources.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/zh-CHT/Microsoft.ReportViewer.WebForms.resources.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/de/Microsoft.ReportViewer.WinForms.resources.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/es/Microsoft.ReportViewer.WinForms.resources.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/fr/Microsoft.ReportViewer.WinForms.resources.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/it/Microsoft.ReportViewer.WinForms.resources.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/ja/Microsoft.ReportViewer.WinForms.resources.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/ko/Microsoft.ReportViewer.WinForms.resources.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/pt/Microsoft.ReportViewer.WinForms.resources.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/ru/Microsoft.ReportViewer.WinForms.resources.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/zh-CHS/Microsoft.ReportViewer.WinForms.resources.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/zh-CHT/Microsoft.ReportViewer.WinForms.resources.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/obj/Debug/QuanLiCuaHang.Form2.resources
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/obj/Debug/QuanLiCuaHang.XuatHang.resources
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLiCuaHang/obj/Debug/QuanLiCuaHang.Form3.resources
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/SqlServerTypes/x64/msvcr120.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/SqlServerTypes/x64/SqlServerSpatial140.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/SqlServerTypes/x86/msvcr120.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/SqlServerTypes/x86/SqlServerSpatial140.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/QuanLiCuaHang.exe.config
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/QuanLiCuaHang.exe
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/QuanLiCuaHang.pdb
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/Microsoft.ReportViewer.Common.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/Microsoft.ReportViewer.DataVisualization.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/Microsoft.ReportViewer.Design.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/Microsoft.ReportViewer.ProcessingObjectModel.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/Microsoft.ReportViewer.WebDesign.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/Microsoft.ReportViewer.WebForms.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/Microsoft.ReportViewer.WinForms.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/Microsoft.SqlServer.Types.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/QuanLi.Business.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/QuanLi.Data.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/EnvDTE.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/Microsoft.VisualStudio.Shell.Interop.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/Microsoft.VisualStudio.Shell.Interop.8.0.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/stdole.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/Microsoft.VisualStudio.OLE.Interop.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/Microsoft.VisualStudio.TextManager.Interop.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/Microsoft.MSXML.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/QuanLi.Business.pdb
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/QuanLi.Data.pdb
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/ja/Microsoft.ReportViewer.Common.resources.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/it/Microsoft.ReportViewer.Common.resources.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/ru/Microsoft.ReportViewer.Common.resources.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/pt/Microsoft.ReportViewer.Common.resources.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/de/Microsoft.ReportViewer.Common.resources.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/zh-CHT/Microsoft.ReportViewer.Common.resources.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/zh-CHS/Microsoft.ReportViewer.Common.resources.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/ko/Microsoft.ReportViewer.Common.resources.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/fr/Microsoft.ReportViewer.Common.resources.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/es/Microsoft.ReportViewer.Common.resources.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/ja/Microsoft.ReportViewer.DataVisualization.resources.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/it/Microsoft.ReportViewer.DataVisualization.resources.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/ru/Microsoft.ReportViewer.DataVisualization.resources.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/pt/Microsoft.ReportViewer.DataVisualization.resources.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/de/Microsoft.ReportViewer.DataVisualization.resources.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/zh-CHT/Microsoft.ReportViewer.DataVisualization.resources.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/zh-CHS/Microsoft.ReportViewer.DataVisualization.resources.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/ko/Microsoft.ReportViewer.DataVisualization.resources.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/fr/Microsoft.ReportViewer.DataVisualization.resources.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/es/Microsoft.ReportViewer.DataVisualization.resources.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/ja/Microsoft.ReportViewer.Design.resources.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/it/Microsoft.ReportViewer.Design.resources.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/ru/Microsoft.ReportViewer.Design.resources.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/pt/Microsoft.ReportViewer.Design.resources.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/de/Microsoft.ReportViewer.Design.resources.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/zh-CHT/Microsoft.ReportViewer.Design.resources.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/zh-CHS/Microsoft.ReportViewer.Design.resources.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/ko/Microsoft.ReportViewer.Design.resources.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/fr/Microsoft.ReportViewer.Design.resources.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/es/Microsoft.ReportViewer.Design.resources.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/ja/Microsoft.ReportViewer.WebDesign.resources.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/it/Microsoft.ReportViewer.WebDesign.resources.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/ru/Microsoft.ReportViewer.WebDesign.resources.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/pt/Microsoft.ReportViewer.WebDesign.resources.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/de/Microsoft.ReportViewer.WebDesign.resources.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/zh-CHT/Microsoft.ReportViewer.WebDesign.resources.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/zh-CHS/Microsoft.ReportViewer.WebDesign.resources.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/ko/Microsoft.ReportViewer.WebDesign.resources.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/fr/Microsoft.ReportViewer.WebDesign.resources.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/es/Microsoft.ReportViewer.WebDesign.resources.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/ja/Microsoft.ReportViewer.WebForms.resources.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/it/Microsoft.ReportViewer.WebForms.resources.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/ru/Microsoft.ReportViewer.WebForms.resources.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/pt/Microsoft.ReportViewer.WebForms.resources.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/de/Microsoft.ReportViewer.WebForms.resources.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/zh-CHT/Microsoft.ReportViewer.WebForms.resources.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/zh-CHS/Microsoft.ReportViewer.WebForms.resources.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/ko/Microsoft.ReportViewer.WebForms.resources.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/fr/Microsoft.ReportViewer.WebForms.resources.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/es/Microsoft.ReportViewer.WebForms.resources.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/ja/Microsoft.ReportViewer.WinForms.resources.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/it/Microsoft.ReportViewer.WinForms.resources.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/ru/Microsoft.ReportViewer.WinForms.resources.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/pt/Microsoft.ReportViewer.WinForms.resources.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/de/Microsoft.ReportViewer.WinForms.resources.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/zh-CHT/Microsoft.ReportViewer.WinForms.resources.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/zh-CHS/Microsoft.ReportViewer.WinForms.resources.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/ko/Microsoft.ReportViewer.WinForms.resources.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/fr/Microsoft.ReportViewer.WinForms.resources.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/bin/Debug/es/Microsoft.ReportViewer.WinForms.resources.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/obj/Debug/QuanLiCuaHang.csproj.AssemblyReference.cache
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/obj/Debug/QuanLiCuaHang.exe.config
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/obj/Debug/QuanLiCuaHang.BanHang.resources
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/obj/Debug/QuanLiCuaHang.ChietKhau.resources
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/obj/Debug/QuanLiCuaHang.Form1.resources
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/obj/Debug/QuanLiCuaHang.Form2.resources
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/obj/Debug/QuanLiCuaHang.Form3.resources
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/obj/Debug/QuanLiCuaHang.HoaDonNhap.resources
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/obj/Debug/QuanLiCuaHang.NhapHang.resources
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/obj/Debug/QuanLiCuaHang.Properties.Resources.resources
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/obj/Debug/QuanLiCuaHang.TTHang.resources
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/obj/Debug/QuanLiCuaHang.TTMatHang.resources
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/obj/Debug/QuanLiCuaHang.XuatHang.resources
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/obj/Debug/QuanLiCuaHang.csproj.GenerateResource.cache
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/obj/Debug/QuanLiCuaHang.csproj.CoreCompileInputs.cache
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/obj/Debug/QuanLiCuaHang.csproj.CopyComplete
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/obj/Debug/QuanLiCuaHang.exe
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLiCuaHang/obj/Debug/QuanLiCuaHang.pdb

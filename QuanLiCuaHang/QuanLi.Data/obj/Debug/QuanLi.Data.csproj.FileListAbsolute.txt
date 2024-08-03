@@ -1,0 +1,12 @@
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLi.Data/obj/Debug/QuanLi.Data.csprojResolveAssemblyReference.cache
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLi.Data/obj/Debug/QuanLi.Data.csproj.CoreCompileInputs.cache
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLi.Data/bin/Debug/QuanLi.Data.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLi.Data/bin/Debug/QuanLi.Data.pdb
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLi.Data/obj/Debug/QuanLi.Data.dll
+C:/Users/hanap/Documents/Visual Studio 2017/Projects/QuanLiCuaHang/QuanLi.Data/obj/Debug/QuanLi.Data.pdb
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLi.Data/bin/Debug/QuanLi.Data.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLi.Data/bin/Debug/QuanLi.Data.pdb
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLi.Data/obj/Debug/QuanLi.Data.csproj.CoreCompileInputs.cache
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLi.Data/obj/Debug/QuanLi.Data.dll
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLi.Data/obj/Debug/QuanLi.Data.pdb
+/Users/hoanganhbog/Downloads/QuanLiCuaHang_Net/QuanLiCuaHang/QuanLi.Data/obj/Debug/QuanLi.Data.csproj.AssemblyReference.cache
